@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91808/Downloads/Diamond-Rate-Prediction/mlruns/0/7bacb52fc039484aae5e8d47f50df36c/artifacts
+end_time: 1713183287987
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7bacb52fc039484aae5e8d47f50df36c
+run_name: carefree-colt-528
+run_uuid: 7bacb52fc039484aae5e8d47f50df36c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713183271288
+status: 3
+tags: []
+user_id: '91808'

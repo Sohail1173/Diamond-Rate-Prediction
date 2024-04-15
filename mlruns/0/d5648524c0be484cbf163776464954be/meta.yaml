@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91808/Downloads/Diamond-Rate-Prediction/mlruns/0/d5648524c0be484cbf163776464954be/artifacts
+end_time: 1713183491036
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d5648524c0be484cbf163776464954be
+run_name: hilarious-cat-757
+run_uuid: d5648524c0be484cbf163776464954be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713183479433
+status: 3
+tags: []
+user_id: '91808'

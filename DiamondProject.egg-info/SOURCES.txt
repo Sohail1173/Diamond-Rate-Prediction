@@ -1,0 +1,6 @@
+setup.py
+DiamondProject.egg-info/PKG-INFO
+DiamondProject.egg-info/SOURCES.txt
+DiamondProject.egg-info/dependency_links.txt
+DiamondProject.egg-info/requires.txt
+DiamondProject.egg-info/top_level.txt
