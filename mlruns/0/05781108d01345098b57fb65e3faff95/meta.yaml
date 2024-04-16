@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91808/Downloads/Diamond-Rate-Prediction/mlruns/0/05781108d01345098b57fb65e3faff95/artifacts
+end_time: 1713243846043
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 05781108d01345098b57fb65e3faff95
+run_name: worried-lamb-89
+run_uuid: 05781108d01345098b57fb65e3faff95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1713243835354
+status: 3
+tags: []
+user_id: '91808'
